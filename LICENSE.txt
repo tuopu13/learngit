@@ -1,0 +1,2 @@
+license:
+for testing "git add" to "Stage"
